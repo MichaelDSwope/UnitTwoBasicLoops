@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.AssemblyInfo.cs
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\bin\Debug\net6.0\UnitTwoBasicLoops.exe
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\bin\Debug\net6.0\UnitTwoBasicLoops.deps.json
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\bin\Debug\net6.0\UnitTwoBasicLoops.runtimeconfig.json
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\bin\Debug\net6.0\UnitTwoBasicLoops.dll
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\bin\Debug\net6.0\UnitTwoBasicLoops.pdb
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.dll
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\refint\UnitTwoBasicLoops.dll
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.pdb
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\UnitTwoBasicLoops.genruntimeconfig.cache
+C:\Users\Digit\source\repos\UnitTwoBasicLoops\UnitTwoBasicLoops\obj\Debug\net6.0\ref\UnitTwoBasicLoops.dll

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTwoBasicLoops", "UnitTwoBasicLoops\UnitTwoBasicLoops.csproj", "{9EE4AAC2-2004-4FD6-A815-F03C01A3A1CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicLoopsOne", "basicLoopsOne\basicLoopsOne.csproj", "{04686C4B-ECD9-416A-8208-D5540433C3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keypad entry", "Keypad entry\Keypad entry.csproj", "{6DE85FDA-4654-4889-8A57-4EF0C4725B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dowhile", "dowhile\dowhile.csproj", "{6D1E98CD-5431-498C-9587-84DB85D2FC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE4AAC2-2004-4FD6-A815-F03C01A3A1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE4AAC2-2004-4FD6-A815-F03C01A3A1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE4AAC2-2004-4FD6-A815-F03C01A3A1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE4AAC2-2004-4FD6-A815-F03C01A3A1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04686C4B-ECD9-416A-8208-D5540433C3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04686C4B-ECD9-416A-8208-D5540433C3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04686C4B-ECD9-416A-8208-D5540433C3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04686C4B-ECD9-416A-8208-D5540433C3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE85FDA-4654-4889-8A57-4EF0C4725B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE85FDA-4654-4889-8A57-4EF0C4725B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE85FDA-4654-4889-8A57-4EF0C4725B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE85FDA-4654-4889-8A57-4EF0C4725B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1E98CD-5431-498C-9587-84DB85D2FC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1E98CD-5431-498C-9587-84DB85D2FC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1E98CD-5431-498C-9587-84DB85D2FC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1E98CD-5431-498C-9587-84DB85D2FC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BAF5C6-904E-4CD8-94EC-89AAC1D3F3D6}
+	EndGlobalSection
+EndGlobal
